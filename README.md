@@ -38,6 +38,7 @@ For example, I have Red Dead Redemption 2 which is coming from Rockstart Games L
 In this case, you need to use Wine which will provide a compatibility layer between your windows Application and your Linux Operating System.
 
 First step it to install Wine and Wineglass (providing a GUI) from the Software Centre.
+<img width="1532" height="556" alt="Linux-Wine" src="https://github.com/user-attachments/assets/b1ea1898-b945-40f7-baca-ee50a40af53f" />
 
 After that, open Wineglass:
 ```
@@ -46,6 +47,7 @@ After that, open Wineglass:
 -Search for your .exec file (mine is Rockstar-Games-Launcher.exe)
 -This will trigger the client installation
 ```
+<img width="2048" height="767" alt="Linux-Wineglass" src="https://github.com/user-attachments/assets/798fbcc1-930e-43b8-aa9c-36f4514fc489" />
 
 Final step, from Steam client, go to **Library > Add a Game** and look for the Rockstar Games Launcher.
 From there, you can play to this new game.
