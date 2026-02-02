@@ -23,7 +23,9 @@ In this case, just start Steam from Konsole terminal:
 ```
 steam
 ```
-This time it should open. From there, go to **Setting > Interface and disable "Enable GPU accelerated rendering in web views (requires restart)"**.
+This time it should open. 
+
+From there, go to **Setting > Interface and disable "Enable GPU accelerated rendering in web views (requires restart)"**.
 
 After that, your steam client interface should work and you can install your games the same way as it is on Windows.
 
