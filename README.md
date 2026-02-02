@@ -26,7 +26,8 @@ steam
 This time it should open. 
 
 From there, go to **Setting > Interface and disable "Enable GPU accelerated rendering in web views (requires restart)"**.
-![Test](https://github.com/charlesbenon/Fedora_steam/tree/main/Steam-Disable.png)
+<img width="1388" height="1144" alt="Steam-Disable" src="https://github.com/user-attachments/assets/e2f6cd46-b76f-4366-a380-103c608469cd" />
+
 After that, your steam client interface should work and you can install your games the same way as it is on Windows.
 
 # 3/ Third Party application
