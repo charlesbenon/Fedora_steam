@@ -1,4 +1,4 @@
-The objective of this page is to give details about running Steam and a Windows application (in my case, Rockstart Games Launcher) on top of Linux Fedora (it could also be another distribution but staeps may be slighlty differents) without needing Windows Operating System.
+The objective of this page is to give details about running Steam and a Windows application (in my case, Rockstart Games Launcher) on top of Linux Fedora (it could also be another distribution but steps may be slighlty differents) without needing Windows Operating System.
 
 This is an aggregate of information of what I know and what I have found to get those little issues fixed.
 
