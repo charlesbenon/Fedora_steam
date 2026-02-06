@@ -41,12 +41,11 @@ First step it to install Wine and Wineglass (providing a GUI) from the Software 
 <img width="1532" height="556" alt="Linux-Wine" src="https://github.com/user-attachments/assets/b1ea1898-b945-40f7-baca-ee50a40af53f" />
 
 After that, open Wineglass:
-```
--Create a new prefix (Name is not important)
--When it is created, click on the arrow to Run .exe file
--Search for your .exec file (mine is Rockstar-Games-Launcher.exe)
--This will trigger the client installation
-```
+* Create a new prefix (Name is not important)
+* When it is created, click on the arrow to Run .exe file
+* Search for your .exec file (mine is Rockstar-Games-Launcher.exe)
+* This will trigger the client installation
+
 <img width="2048" height="767" alt="Linux-Wineglass" src="https://github.com/user-attachments/assets/798fbcc1-930e-43b8-aa9c-36f4514fc489" />
 
 Final step, from Steam client, go to **Library > Add a Game** and look for the Rockstar Games Launcher.
